@@ -109,8 +109,8 @@ const Hero = () => {
             </Link>
             <a
               className="btn btn-outline"
-              href="#"
-              download
+              href="/Pablo_Lemos_Curriculo.pdf"
+              download="Pablo_Lemos_Curriculo.pdf"
               id="hero-download-cv"
             >
               <FiDownload /> Baixar CV
