@@ -120,7 +120,7 @@ const Hero = () => {
           <motion.div className="hero-stats" variants={itemVariants}>
             {[
               { number: '5+', label: 'Tecnologias' },
-              { number: '7+', label: 'Projetos' },
+              { number: '4+', label: 'Projetos' },
             ].map((stat) => (
               <div className="hero-stat" key={stat.label}>
                 <span className="hero-stat-number">{stat.number}</span>
